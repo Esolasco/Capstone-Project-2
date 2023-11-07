@@ -1,0 +1,64 @@
+ /*{
+     background-color: #bce8f1 ;
+}
+*/
+.profilepic{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+
+.skillpic{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+.carpic {
+    height: 400px;
+}
+
+.footer-p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 8pt;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+}
+.myIntroduction > .container{
+    background-color: rgb(111, 176, 219);
+}
+.contactme > .container {
+    background-color: rgb(111, 176, 219);
+
+}
+.myheader > .container{
+    background-color: rgb(72, 128, 166);
+}
+.myheader {
+    background-color: rgb(197, 224, 242);
+}
+
+.mySkills > .container {
+    background-color: rgb(72, 128, 166);
+}
+.mySkills {
+    background-color: rgb(197, 224, 242);
+}
+ .myfooter{
+    background-color: rgb(143, 143, 143);
+    }
+.myIntroduction{
+    background-color: rgb(197, 224, 242);
+
+}
+ .contactme{
+    background-color: rgb(197, 224, 242);
+}
+
+.icon {
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+}
+
